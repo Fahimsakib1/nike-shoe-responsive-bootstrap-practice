@@ -1,3 +1,11 @@
+/* Google Font Link */
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Poppins:wght@500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #FFFF;
+}
+
 /* Header Section CSS */
 .header-bg-color{
     background-color: #f7e3fa;
@@ -22,6 +30,7 @@
     font-size: 55px;
 }
 
+
 /* casual Shoe Section Custom CSS */
 .casual-shoe-color{
     color: #363958;
@@ -31,8 +40,6 @@
 
 .casual-shoe1-bg-color, .casual-shoe2-bg-color, .casual-shoe3-bg-color{
     background-color: #d8d8d8;
- 
-
 }
 
 .casual-shoe2-bg-color{
@@ -51,35 +58,11 @@
     margin-bottom: 20px;
 }
 
-
-
-/* Bottom Section Cystom CSS */
-/* .bottom-section-headings{
-    margin-left: -80px;
-}
-.bottom-section-headings h4{
-    margin-top: 15px;
-}
-
-
-.bottom-section-question-headings{
-    margin-left: -35px;
-}
-
-.bottom-section-question-headings h4{
-    margin-top: 10px;
-}
-
-
-.bottom-icon-images{
-    margin-left: 20px;
-
-} */
-
-
-
-
-
+/* Casual Section Toast Customized CSS */
+.toast{
+    margin-left: 150px;
+  }
+ 
 
 
 /* New Bottom Section Customized CSS */
@@ -129,14 +112,20 @@
     margin-left: 10px;
 }
 
+/* Pagination Custom CSS For Formal Shoes*/
+.formal-shoe-pagination-div{
+    margin-top: -50px;
+    margin-bottom: 20px;
+}
 
 
 
+/* Modal Section Customized CSS */
 
 
-
-
-
+.modal-body{
+    margin-top: -90px;
+}
 
 
 /* Footer Customized CSS  */
