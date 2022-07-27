@@ -87,7 +87,7 @@
     margin-top: 100px;
 }
 .bottom-section-headings1{
-    /* margin-left: -40px; */
+    /* margin-left: -20px; */
     margin-top: 10px;
 }
 .bottom-section-headings2{
@@ -104,18 +104,29 @@
     background-color: white;
 } */
 
-.bottom-section-icon-div img{
-    margin-left: 15px;
+/* .bottom-section-icon-div img{
+    margin-left: 0px;
 
-}
+} */
 
 .bottom-div-1, .bottom-div-2, .bottom-div-3 {
     border: 2px solid rgb(245, 28, 173);
 }
 
+.bottom-section-icon-div{
+    margin-left: -5px;
+}
+
 .bottom-section-right-image img{
-    margin-left: 30px;
+    margin-left: 5px;
     margin-top: 35px;
+}
+
+.question-icon-div{
+    margin-left: 20px;
+}
+.house-icon-div{
+    margin-left: 10px;
 }
 
 
